@@ -16,7 +16,7 @@ class PageFooter extends Component {
                 <div className={`${styles.recordPC}`}>
                     <div className={`${styles.recordLicense}`}>
                         <span>{t('footer:record_1', {year: 2020})}</span>
-                        <a href="http://www.beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://beian.miit.gov.cn" target="_blank" rel="noopener noreferrer">
                             {t('footer:record_2')}
                         </a>
                     </div>
