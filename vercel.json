@@ -2,5 +2,5 @@
   "trailingSlash": true,
   "redirects": [
     { "source": "/", "destination": "https://itering.io" }
-  ],
+  ]
 }
